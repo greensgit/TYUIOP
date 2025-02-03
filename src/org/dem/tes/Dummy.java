@@ -22,4 +22,8 @@ private void Confirmation() {
 	System.out.println("This is satham");
 }
 
+private void cancellation() {
+	System.out.println("This is deepti - working on cancellattion");
+}
+
 }
