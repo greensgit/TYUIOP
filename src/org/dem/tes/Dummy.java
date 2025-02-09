@@ -21,7 +21,12 @@ private void payment() {
 private void Confirmation() {
 	System.out.println("This is satham");
 }
+
 private void search() {
 System.out.println("This is Joe branch - working on search");
+}
+
+private void cancellation() {
+	System.out.println("This is deepti - working on cancellattion");
 }
 }
